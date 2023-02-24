@@ -1,3 +1,5 @@
+/* add comment in admin.php*/
+
 <?php
 if (isset($_POST['btn_logout'])) {
     header("location:login.php");
